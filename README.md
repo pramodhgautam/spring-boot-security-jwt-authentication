@@ -7,3 +7,4 @@ You can find a full tutorial about the authentication and authorization process 
 <br>
 [Comprehensive Guide: Spring Boot Authentication and Authorization with MySQL — Part 2](https://superideas.net/blog-detail/comprehensive-guide-spring-boot-authentication-and-authorization-with-mysql-part2)
 # spring-boot-security-jwt-authentacation
+# spring-boot-security-jwt-authentacation
